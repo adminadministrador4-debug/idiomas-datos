@@ -1,0 +1,129 @@
+{
+    "idioma": "en",
+    "version": "1.1.0",
+    "verbos": [
+        {
+            "infinitivo": "to be",
+            "tipo": "irregular",
+            "traduccion": {
+                "es": "ser / estar",
+                "de": "sein"
+            },
+            "conjugaciones": {
+                "present_simple": {
+                    "I": "am",
+                    "you": "are",
+                    "he_she_it": "is",
+                    "we": "are",
+                    "you_plural": "are",
+                    "they": "are"
+                },
+                "past_simple": {
+                    "I": "was",
+                    "you": "were",
+                    "he_she_it": "was",
+                    "we": "were",
+                    "you_plural": "were",
+                    "they": "were"
+                },
+                "future": {
+                    "I": "will be",
+                    "you": "will be",
+                    "he_she_it": "will be",
+                    "we": "will be",
+                    "you_plural": "will be",
+                    "they": "will be"
+                }
+            },
+            "ejemplos": [
+                {
+                    "oracion": "I am a student.",
+                    "traduccion_es": "Yo soy estudiante.",
+                    "traduccion_de": "Ich bin Student."
+                }
+            ]
+        },
+        {
+            "infinitivo": "to have",
+            "tipo": "irregular",
+            "traduccion": {
+                "es": "tener",
+                "de": "haben"
+            },
+            "conjugaciones": {
+                "present_simple": {
+                    "I": "have",
+                    "you": "have",
+                    "he_she_it": "has",
+                    "we": "have",
+                    "you_plural": "have",
+                    "they": "have"
+                },
+                "past_simple": {
+                    "I": "had",
+                    "you": "had",
+                    "he_she_it": "had",
+                    "we": "had",
+                    "you_plural": "had",
+                    "they": "had"
+                },
+                "future": {
+                    "I": "will have",
+                    "you": "will have",
+                    "he_she_it": "will have",
+                    "we": "will have",
+                    "you_plural": "will have",
+                    "they": "will have"
+                }
+            },
+            "ejemplos": [
+                {
+                    "oracion": "I have a book.",
+                    "traduccion_es": "Tengo un libro.",
+                    "traduccion_de": "Ich habe ein Buch."
+                }
+            ]
+        },
+        {
+            "infinitivo": "to go",
+            "tipo": "irregular",
+            "traduccion": {
+                "es": "ir",
+                "de": "gehen"
+            },
+            "conjugaciones": {
+                "present_simple": {
+                    "I": "go",
+                    "you": "go",
+                    "he_she_it": "goes",
+                    "we": "go",
+                    "you_plural": "go",
+                    "they": "go"
+                },
+                "past_simple": {
+                    "I": "went",
+                    "you": "went",
+                    "he_she_it": "went",
+                    "we": "went",
+                    "you_plural": "went",
+                    "they": "went"
+                },
+                "future": {
+                    "I": "will go",
+                    "you": "will go",
+                    "he_she_it": "will go",
+                    "we": "will go",
+                    "you_plural": "will go",
+                    "they": "will go"
+                }
+            },
+            "ejemplos": [
+                {
+                    "oracion": "I go to school.",
+                    "traduccion_es": "Voy a la escuela.",
+                    "traduccion_de": "Ich gehe zur Schule."
+                }
+            ]
+        }
+    ]
+}
