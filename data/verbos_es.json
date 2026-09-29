@@ -1,0 +1,41 @@
+{
+    "idioma": "es",
+    "version": "1.0.0",
+    "verbos": [
+        {
+            "infinitivo": "ser",
+            "traduccion": {
+                "en": "to be",
+                "de": "sein"
+            }
+        },
+        {
+            "infinitivo": "estar",
+            "traduccion": {
+                "en": "to be",
+                "de": "sein"
+            }
+        },
+        {
+            "infinitivo": "tener",
+            "traduccion": {
+                "en": "to have",
+                "de": "haben"
+            }
+        },
+        {
+            "infinitivo": "hacer",
+            "traduccion": {
+                "en": "to do / to make",
+                "de": "machen"
+            }
+        },
+        {
+            "infinitivo": "ir",
+            "traduccion": {
+                "en": "to go",
+                "de": "gehen"
+            }
+        }
+    ]
+}
