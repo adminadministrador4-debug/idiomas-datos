@@ -1,41 +1,166 @@
 {
     "idioma": "es",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "verbos": [
         {
             "infinitivo": "ser",
+            "tipo": "irregular",
             "traduccion": {
                 "en": "to be",
                 "de": "sein"
-            }
-        },
-        {
-            "infinitivo": "estar",
-            "traduccion": {
-                "en": "to be",
-                "de": "sein"
-            }
+            },
+            "conjugaciones": {
+                "presente": {
+                    "yo": "soy",
+                    "tú": "eres",
+                    "él_ella_usted": "es",
+                    "nosotros": "somos",
+                    "vosotros": "sois",
+                    "ellos_ustedes": "son"
+                },
+                "preterito_indefinido": {
+                    "yo": "fui",
+                    "tú": "fuiste",
+                    "él_ella_usted": "fue",
+                    "nosotros": "fuimos",
+                    "vosotros": "fuisteis",
+                    "ellos_ustedes": "fueron"
+                },
+                "imperfecto": {
+                    "yo": "era",
+                    "tú": "eras",
+                    "él_ella_usted": "era",
+                    "nosotros": "éramos",
+                    "vosotros": "erais",
+                    "ellos_ustedes": "eran"
+                },
+                "futuro": {
+                    "yo": "seré",
+                    "tú": "serás",
+                    "él_ella_usted": "será",
+                    "nosotros": "seremos",
+                    "vosotros": "seréis",
+                    "ellos_ustedes": "serán"
+                },
+                "condicional": {
+                    "yo": "sería",
+                    "tú": "serías",
+                    "él_ella_usted": "sería",
+                    "nosotros": "seríamos",
+                    "vosotros": "seríais",
+                    "ellos_ustedes": "serían"
+                }
+            },
+            "ejemplos": [
+                {
+                    "oracion": "Yo soy estudiante.",
+                    "traduccion_en": "I am a student.",
+                    "traduccion_de": "Ich bin Student."
+                },
+                {
+                    "oracion": "Ella es médica.",
+                    "traduccion_en": "She is a doctor.",
+                    "traduccion_de": "Sie ist Ärztin."
+                }
+            ]
         },
         {
             "infinitivo": "tener",
+            "tipo": "irregular",
             "traduccion": {
                 "en": "to have",
                 "de": "haben"
-            }
-        },
-        {
-            "infinitivo": "hacer",
-            "traduccion": {
-                "en": "to do / to make",
-                "de": "machen"
-            }
+            },
+            "conjugaciones": {
+                "presente": {
+                    "yo": "tengo",
+                    "tú": "tienes",
+                    "él_ella_usted": "tiene",
+                    "nosotros": "tenemos",
+                    "vosotros": "tenéis",
+                    "ellos_ustedes": "tienen"
+                },
+                "preterito_indefinido": {
+                    "yo": "tuve",
+                    "tú": "tuviste",
+                    "él_ella_usted": "tuvo",
+                    "nosotros": "tuvimos",
+                    "vosotros": "tuvisteis",
+                    "ellos_ustedes": "tuvieron"
+                },
+                "imperfecto": {
+                    "yo": "tenía",
+                    "tú": "tenías",
+                    "él_ella_usted": "tenía",
+                    "nosotros": "teníamos",
+                    "vosotros": "teníais",
+                    "ellos_ustedes": "tenían"
+                },
+                "futuro": {
+                    "yo": "tendré",
+                    "tú": "tendrás",
+                    "él_ella_usted": "tendrá",
+                    "nosotros": "tendremos",
+                    "vosotros": "tendréis",
+                    "ellos_ustedes": "tendrán"
+                }
+            },
+            "ejemplos": [
+                {
+                    "oracion": "Tengo un libro.",
+                    "traduccion_en": "I have a book.",
+                    "traduccion_de": "Ich habe ein Buch."
+                }
+            ]
         },
         {
             "infinitivo": "ir",
+            "tipo": "irregular",
             "traduccion": {
                 "en": "to go",
                 "de": "gehen"
-            }
+            },
+            "conjugaciones": {
+                "presente": {
+                    "yo": "voy",
+                    "tú": "vas",
+                    "él_ella_usted": "va",
+                    "nosotros": "vamos",
+                    "vosotros": "vais",
+                    "ellos_ustedes": "van"
+                },
+                "preterito_indefinido": {
+                    "yo": "fui",
+                    "tú": "fuiste",
+                    "él_ella_usted": "fue",
+                    "nosotros": "fuimos",
+                    "vosotros": "fuisteis",
+                    "ellos_ustedes": "fueron"
+                },
+                "imperfecto": {
+                    "yo": "iba",
+                    "tú": "ibas",
+                    "él_ella_usted": "iba",
+                    "nosotros": "íbamos",
+                    "vosotros": "ibais",
+                    "ellos_ustedes": "iban"
+                },
+                "futuro": {
+                    "yo": "iré",
+                    "tú": "irás",
+                    "él_ella_usted": "irá",
+                    "nosotros": "iremos",
+                    "vosotros": "iréis",
+                    "ellos_ustedes": "irán"
+                }
+            },
+            "ejemplos": [
+                {
+                    "oracion": "Voy a la escuela.",
+                    "traduccion_en": "I go to school.",
+                    "traduccion_de": "Ich gehe zur Schule."
+                }
+            ]
         }
     ]
 }
