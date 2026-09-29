@@ -1,0 +1,129 @@
+{
+    "idioma": "de",
+    "version": "1.1.0",
+    "verbos": [
+        {
+            "infinitivo": "sein",
+            "tipo": "irregular",
+            "traduccion": {
+                "es": "ser / estar",
+                "en": "to be"
+            },
+            "conjugaciones": {
+                "prasens": {
+                    "ich": "bin",
+                    "du": "bist",
+                    "er_sie_es": "ist",
+                    "wir": "sind",
+                    "ihr": "seid",
+                    "sie_Sie": "sind"
+                },
+                "prateritum": {
+                    "ich": "war",
+                    "du": "warst",
+                    "er_sie_es": "war",
+                    "wir": "waren",
+                    "ihr": "wart",
+                    "sie_Sie": "waren"
+                },
+                "futur_I": {
+                    "ich": "werde sein",
+                    "du": "wirst sein",
+                    "er_sie_es": "wird sein",
+                    "wir": "werden sein",
+                    "ihr": "werdet sein",
+                    "sie_Sie": "werden sein"
+                }
+            },
+            "ejemplos": [
+                {
+                    "oracion": "Ich bin Student.",
+                    "traduccion_es": "Yo soy estudiante.",
+                    "traduccion_en": "I am a student."
+                }
+            ]
+        },
+        {
+            "infinitivo": "haben",
+            "tipo": "irregular",
+            "traduccion": {
+                "es": "tener",
+                "en": "to have"
+            },
+            "conjugaciones": {
+                "prasens": {
+                    "ich": "habe",
+                    "du": "hast",
+                    "er_sie_es": "hat",
+                    "wir": "haben",
+                    "ihr": "habt",
+                    "sie_Sie": "haben"
+                },
+                "prateritum": {
+                    "ich": "hatte",
+                    "du": "hattest",
+                    "er_sie_es": "hatte",
+                    "wir": "hatten",
+                    "ihr": "hattet",
+                    "sie_Sie": "hatten"
+                },
+                "futur_I": {
+                    "ich": "werde haben",
+                    "du": "wirst haben",
+                    "er_sie_es": "wird haben",
+                    "wir": "werden haben",
+                    "ihr": "werdet haben",
+                    "sie_Sie": "werden haben"
+                }
+            },
+            "ejemplos": [
+                {
+                    "oracion": "Ich habe ein Buch.",
+                    "traduccion_es": "Tengo un libro.",
+                    "traduccion_en": "I have a book."
+                }
+            ]
+        },
+        {
+            "infinitivo": "gehen",
+            "tipo": "irregular",
+            "traduccion": {
+                "es": "ir",
+                "en": "to go"
+            },
+            "conjugaciones": {
+                "prasens": {
+                    "ich": "gehe",
+                    "du": "gehst",
+                    "er_sie_es": "geht",
+                    "wir": "gehen",
+                    "ihr": "geht",
+                    "sie_Sie": "gehen"
+                },
+                "prateritum": {
+                    "ich": "ging",
+                    "du": "gingst",
+                    "er_sie_es": "ging",
+                    "wir": "gingen",
+                    "ihr": "gingt",
+                    "sie_Sie": "gingen"
+                },
+                "futur_I": {
+                    "ich": "werde gehen",
+                    "du": "wirst gehen",
+                    "er_sie_es": "wird gehen",
+                    "wir": "werden gehen",
+                    "ihr": "werdet gehen",
+                    "sie_Sie": "werden gehen"
+                }
+            },
+            "ejemplos": [
+                {
+                    "oracion": "Ich gehe zur Schule.",
+                    "traduccion_es": "Voy a la escuela.",
+                    "traduccion_en": "I go to school."
+                }
+            ]
+        }
+    ]
+}
